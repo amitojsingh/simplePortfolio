@@ -1,0 +1,118 @@
+body{
+background-color:#fff;
+margin:10px 20px 10px 60px;
+}
+.email
+{
+color:#95a5a6;
+font-size:12px;
+float:right;
+}
+
+.element{
+color: #34495e;
+font-family:"Slabo 27px";
+text-align: justify;
+letter-spacing:2px;
+font-size:2.5em;
+margin:0 0 30px;
+}
+
+.content p{
+color: #7f8c8d;
+font-family:"Satisfy";
+letter-spacing:2px;
+word-spacing:2px;
+/*text-align: justify;*/
+line-height:125px;
+margin:20px 0 0 0;
+}
+
+.content{
+padding:5em 0 0 0;
+}
+
+
+.title{
+/*margin-left:10%;*/
+width:40%;
+text-align:center;
+}
+.heading {
+font-family:"Slabo 27px";
+font-size:1.7em;
+color:#34495e;
+letter-spacing:3px;
+text-align:justify;
+}
+.hazur{
+height:75%;
+width:70%;
+display:block;
+margin-left:auto;
+margin-right:auto;}
+
+.hazur-content p, .responsive p, .web p{
+font-size: 12px;
+background-color: #fff;
+Text-align: center;
+/*margin: 30px 0px;*/
+width: 100%;
+text-align: center;
+line-height: 2em;
+color:#6C7A89;
+}
+.hazur-content{
+width:100%;
+background-color:#f0f0f0;
+
+}
+.work{
+/*margin-left:140px;*/
+width:100%;}
+.expertise{
+width:50%;
+}
+.ruby{
+margin-left:auto;
+margin-right:auto;
+display:block;
+}
+.passion, .about{
+width:100%;
+}
+
+.html-css{
+width:100%;
+display:block;
+margin-left:auto;
+margin-right:auto;
+}
+.contact{
+margin:50px 20px 10px 0px;
+}
+
+.contact td{
+color:#2c3e50;
+}
+
+.contact table{
+width:100%
+}
+
+.contact a{
+text-decoration:none;
+color:#2c3e50;
+}
+th{
+color:#34495E;
+text-align:left;
+}
+
+.text {
+line-height:24px;
+text-align: justify;
+margin: 24px 0px;
+color:#34495E;
+}
+
